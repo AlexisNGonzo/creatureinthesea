@@ -31,7 +31,8 @@ nav{
 	margin-bottom: 5px;
 	text-align: center;
 }
-
+nav ul{list-style-type: none;}
+nav li{display:inline;}
 aside{
 	height:490px;
 	width: 230px;
