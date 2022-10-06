@@ -63,8 +63,9 @@ footer{
 }
 
 articleSmall{
-	padding:10px 10px 10px 10px;
-	background-color: aqua;}
+    padding: 10px 10px 10px 10px;
+    background-color: rgba(249,255,0,1.00);
+}
 
 articleLarge{
 	padding: 20px 20px 20px 20px;
