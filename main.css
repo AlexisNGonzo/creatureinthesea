@@ -39,7 +39,7 @@ nav{
 }
 nav ul{list-style-type: none;}
 nav li{display:inline;
-margin-right: 40px;}
+margin-right: 50px;}
 aside{
 	height:490px;
 	width: 230px;
@@ -68,4 +68,5 @@ footer{
 articleSmall{
 	padding:10px 10px 10px 10px;
 	background-color: aqua;
+	float:right;
 }
