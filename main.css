@@ -21,6 +21,9 @@ header{
 	text-decoration: underline;
 	color: aliceblue;
 	text-align:center;
+	font-family:dapifer, serif;
+	font-weight: 600;
+	font-style: normal;
 }
 
 nav{
@@ -32,7 +35,8 @@ nav{
 	text-align: center;
 }
 nav ul{list-style-type: none;}
-nav li{display:inline;}
+nav li{display:inline;
+margin-right: 40px;}
 aside{
 	height:490px;
 	width: 230px;
