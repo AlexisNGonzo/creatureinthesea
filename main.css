@@ -18,12 +18,12 @@ header{
 	width:100%;
 	height: 120px;
 	background-color:rgba(255,255,255,0.36);
-	text-decoration: underline;
-	color: aliceblue;
+	color:rgba(255,255,255,1.00);
 	text-align:center;
 	font-family:dapifer, serif;
 	font-weight: 600;
 	font-style: normal;
+	font-size: 40px;
 }
 
 nav{
@@ -46,6 +46,11 @@ aside{
 	margin-right: 20px;
 	background-color: rgba(255,255,255,0.68);
 	float:left;
+	font-family:dapifer, serif;
+	font-weight: 600;
+	font-style: normal;
+	text-align: center;
+	font-size: 18px;
 }
 #main{
 	width:750px;
