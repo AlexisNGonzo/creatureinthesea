@@ -38,6 +38,7 @@ margin-right: 50px;}
 aside{
 	height:400px;
 	width: 400px;
+	padding-top:13px;
 	margin-top:40px;
 	margin-right: 40px;
 	margin-left: 40px;
@@ -48,6 +49,7 @@ aside{
 aside2{
 	height:150px;
 	width: 400px;
+	padding-top:20px;
 	margin-top:40px;
 	margin-right: 40px;
 	margin-left: 40px;
