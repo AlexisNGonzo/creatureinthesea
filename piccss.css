@@ -24,42 +24,13 @@ h2{ font-family: 'IM Fell English', serif;
 	color:rgba(255,255,255,1.00);
 	text-align:center;
 	font-size: 42px;}
-aside{
-	height:400px;
-	width: 400px;
-	padding-top:13px;
-	margin-top:40px;
-	margin-right: 40px;
-	margin-left: 40px;
-	margin-bottom:80px;
-	background-color: rgba(80,184,188,1.00);
-	float:left;
+.picgrid{
+	align-content: center;
+	margin:10px 100px}
+.picgrid img{ width: 230px;
+	padding: 5px;
+	
 }
-aside2{
-	height:150px;
-	width: 400px;
-	font-family: 'IM Fell English', serif;
-	padding-top:20px;
-	margin-top:40px;
-	margin-right: 40px;
-	margin-left: 40px;
-	margin-bottom:35px;
-	background-color: rgba(80,184,188,1.00);
-	float:left;}
-border{}
-refbox{height:150px;
-	width: 400px;
-	margin-top:35px;
-	margin-right: 40px;
-	margin-left: 40px;
-	margin-bottom:80px;
-	background-color: rgba(80,184,188,1.00);
-	float:left;}
-#main{
-	width:750px;
-    height: 490px;
-    float:left;}
-
 footer{
 	height:50px;
 	width: 505;
