@@ -4,7 +4,7 @@
 *{box-sizing: border-box;}
 
 body{background-image: url("images/background.jpg");
-background-repeat: no-repeat;
+background-repeat:repeat-y;
 background-size:cover;}
 h1{font-family: 'IM Fell English', serif;}
 #container{	
