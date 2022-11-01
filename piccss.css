@@ -2,16 +2,22 @@
 /* CSS Document */
 *{box-sizing: border-box;}
 
-body{background-image:url("images/background.jpg");
+body{background-image: url("images/picsback.jpg");
 background-repeat: no-repeat;
 background-size:cover;}
-h1{font-family: 'IM Fell English', serif;}
+h1{font-family: 'IM Fell English', serif;
+width:100%;
+	height: 120px;
+	background-color:rgba(213,232,237,1.00);
+	color:rgba(7,20,23,1.00);
+	text-align:center;
+	font-size: 100px;}
 #container{	
 	width:1000px;
 	height:700px;
 	background-color: rgba(154,181,255,0.37);
 }
-header{ 
+h2{ font-family: 'IM Fell English', serif;
 	width:100%;
 	height: 120px;
 	background-color:rgba(255,255,255,0.36);
