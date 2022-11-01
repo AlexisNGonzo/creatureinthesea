@@ -6,7 +6,7 @@
 body{background-image: url("images/background.jpg");
 background-repeat: no-repeat;
 background-size:cover;}
-
+h1{font-family: 'IM Fell English', serif;}
 #container{	
 	width:1000px;
 	height:700px;
@@ -27,6 +27,7 @@ nav{
 	background-color:rgba(145,221,220,100);
 	margin-top:5px;
 	margin-bottom: 5px;
+	font-family: 'IM Fell English', serif;
 	text-align: center;
 	font-family: dapifer, serif;
 	font-weight: 400;
@@ -35,7 +36,8 @@ nav{
 }
 nav ul{list-style-type: none;}
 nav li{display:inline;
-margin-right: 50px;}
+	margin-right: 50px;
+	font-family: 'IM Fell English', serif;}
 aside{
 	height:400px;
 	width: 400px;
@@ -50,6 +52,7 @@ aside{
 aside2{
 	height:150px;
 	width: 400px;
+	font-family: 'IM Fell English', serif;
 	padding-top:20px;
 	margin-top:40px;
 	margin-right: 40px;
