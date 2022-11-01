@@ -77,7 +77,9 @@ footer{
 	background-color: rgba(255,255,255,1.00);
 	clear:both;
 }
-
+vidbox{
+	background-color:145,221,220,100; 
+}
 articleSmall{
     padding: 10px 10px 10px 10px;
     background-color: rgba(249,255,0,1.00);
