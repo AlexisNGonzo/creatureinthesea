@@ -1,16 +1,18 @@
 @charset "utf-8";
 /* CSS Document */
-
+/*Bottom text is orig html*/
 *{box-sizing: border-box;}
 
 body{background-image: url("images/background.jpg");
 background-repeat:repeat-y;
 background-size:cover;}
 h1{font-family: 'IM Fell English', serif;}
-#container{	
+.flex-container{	
 	width:1000px;
-	height:700px;
+	height:900px;
 	background-color: rgba(154,181,255,0.37);
+}
+
 }
 header{ 
 	width:100%;
