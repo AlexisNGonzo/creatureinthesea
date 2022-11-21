@@ -10,8 +10,8 @@ width:100%;
 	height: 120px;
 	background-color:rgba(213,232,237,1.00);
 	color:rgba(7,20,23,1.00);
-	text-align:center;
-	font-size: 100px;}
+	image-orientation:center;
+}
 #container{	
 	width:1000px;
 	height:700px;
