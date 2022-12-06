@@ -96,6 +96,7 @@ articleSmall{
 	height: auto;
 	float: left;
 	width:225px;
+	background-color: aliceblue;
 }
 .desc{
 	padding: 15px;
