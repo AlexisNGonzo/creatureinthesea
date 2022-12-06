@@ -2,7 +2,7 @@
 /* CSS Document */
 *{box-sizing: border-box;}
 
-body{background-image: url("images/Lost at sea.jpg");
+body{background-image: url("images/lost at sea alt.jpg");
 background-size:cover;}
 h1{font-family: 'IM Fell English', serif;
 width:100%;
@@ -33,7 +33,7 @@ h2{ font-family: 'IM Fell English', serif;
 p1{align-content: center;
 	font-family: 'IM Fell English', serif;
 	font-size: 60px;
-	color:rgba(15,4,67,1.00);
+	color:rgba(255,255,255,1.00);
 	
 }
 footer{
