@@ -36,6 +36,12 @@ p1{align-content: center;
 	color:rgba(255,255,255,1.00);
 	
 }
+p2{align-content: center;
+	font-family: 'IM Fell English', serif;
+	font-size: 60px;
+	color:rgba(255,255,255,1.00);
+	
+}
 footer{
 	height:50px;
 	width: 505;
